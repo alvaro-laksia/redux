@@ -1,10 +1,13 @@
 import './App.css';
-import TeoriaRedux from './components/teoriaRedux/TeoriaRedux';
+import { ReduxTheory } from './components/reduxTheory/ReduxTheory';
+import { Counter } from './components/counter/Counter.jsx';
 
 function App() {
 	return (
 		<div className="App">
-			<TeoriaRedux />
+			<Counter />
+			<hr />
+			<ReduxTheory />
 		</div>
 	);
 }

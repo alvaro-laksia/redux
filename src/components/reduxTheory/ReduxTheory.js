@@ -1,11 +1,11 @@
 import React from 'react';
 
-import './TeoriaRedux.css';
+import './ReduxTheory.css';
 
 import reduxGif from '../../assets/redux.gif';
 import reduxImg from '../../assets/redux.jpg';
 
-const TeoriaRedux = () => {
+export const ReduxTheory = () => {
 	return (
 		<div>
 			<h2>Teoría y Conceptos</h2>
@@ -48,5 +48,3 @@ const TeoriaRedux = () => {
 		</div>
 	);
 };
-
-export default TeoriaRedux;
