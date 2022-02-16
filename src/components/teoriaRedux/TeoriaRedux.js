@@ -2,8 +2,8 @@ import React from 'react';
 
 import './TeoriaRedux.css';
 
-import reduxGif from './assets/redux.gif';
-import reduxImg from './assets/redux.jpg';
+import reduxGif from '../../assets/redux.gif';
+import reduxImg from '../../assets/redux.jpg';
 
 const TeoriaRedux = () => {
 	return (

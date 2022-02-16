@@ -1,5 +1,5 @@
 import './App.css';
-import TeoriaRedux from './TeoriaRedux';
+import TeoriaRedux from './components/teoriaRedux/TeoriaRedux';
 
 function App() {
 	return (
