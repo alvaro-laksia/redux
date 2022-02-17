@@ -1,11 +1,6 @@
 {
   "santos": [
     {
-      "id": 1,
-      "name": "Seiya",
-      "constellation": "Pegaso"
-    },
-    {
       "id": 2,
       "name": "Shiryu",
       "constellation": "Dragón"
@@ -44,11 +39,6 @@
       "name": "Shura",
       "constellation": "Capricornio",
       "id": 1626133398548
-    },
-    {
-      "name": "Asmitaº",
-      "constellation": "Virgo",
-      "id": 1645090005437
     }
   ]
 }
