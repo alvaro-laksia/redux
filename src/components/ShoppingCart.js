@@ -3,7 +3,7 @@ import { addToCart, clearCart, delFromCart } from '../actions/shoppingAction';
 import CartItem from './CartItem';
 import ProductItem from './ProductItem';
 
-const ShoppingCart = () => {
+export const ShoppingCart = () => {
 	const state = useSelector((state) => state);
 
 	const dispatch = useDispatch();
@@ -38,5 +38,3 @@ const ShoppingCart = () => {
 		</div>
 	);
 };
-
-export default ShoppingCart;
